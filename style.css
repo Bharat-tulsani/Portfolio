@@ -123,7 +123,7 @@ transform: translate(-50%,-50%);
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("image/p1.jpg");
+    background-image: url("image/img.png");
     background-size: 100%;
     background-repeat: no-repeat;
     border: 1rem solid white;
